@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat
+(https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
 
 [![matsuda-slab's github stats](https://github-readme-stats.vercel.app/api?username=matsuda-slab&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/matsuda-slab/)
 
