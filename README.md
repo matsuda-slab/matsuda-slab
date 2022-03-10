@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
-![](https://img.shields.io/bagde/Python.svg?logo=python&style=flat)
+![](https://img.shields.io/bagde/Python-3776AB.svg?logo=python&style=flat)
 
 [![matsuda-slab's github stats](https://github-readme-stats.vercel.app/api?username=matsuda-slab&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/matsuda-slab/)
 
