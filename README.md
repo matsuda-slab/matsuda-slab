@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=matsuda-slab)
 
 ![](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
 ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
